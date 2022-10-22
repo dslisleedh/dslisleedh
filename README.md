@@ -5,13 +5,19 @@
 ## I'm interested in ...  
 
 - Computer Vision
-   - Low level vision task
+   - Low level vision task  
    
 - Generative Models
 
 - Efficient Learning
   - Semi/Self supervised learning
   - Efficient learning architecture
+
+## Work experiences ...
+
+- Remote sensing SST data Super resolution
+- Maritime AIS anomaly detection using Convolutional Adversarial Autoencoder
+- Seafog generation prediction 
 
 <!--
 **dslisleedh/dslisleedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
