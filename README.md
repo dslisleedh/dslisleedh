@@ -19,6 +19,11 @@
 - Maritime AIS anomaly detection using Convolutional Adversarial Autoencoder
 - Seafog generation prediction 
 
+## The frameworks I use is ...
+
+- Tensorflow 2.0
+- Flax
+
 <!--
 **dslisleedh/dslisleedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
