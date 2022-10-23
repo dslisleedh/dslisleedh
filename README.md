@@ -19,7 +19,7 @@
 - Maritime AIS anomaly detection using Convolutional Adversarial Autoencoder
 - Seafog generation prediction 
 
-## The frameworks I use is ...
+## The frameworks I use are ...
 
 - Tensorflow 2.0
 - Flax
