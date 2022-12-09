@@ -10,12 +10,12 @@
 - Generative Models
 
 - Efficient Learning
-  - Semi/Self supervised learning
-  - Efficient learning architecture
+  - Data efficient learning
+  - Low complexity models
 
 ## Work experiences ...
 
-- Remote sensing SST data Super resolution
+- Remote sensing SST data super resolution
 - Maritime AIS anomaly detection using Convolutional Adversarial Autoencoder
 - Seafog generation prediction 
 
