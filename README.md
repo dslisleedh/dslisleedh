@@ -1,23 +1,6 @@
 # Hi, I'm DongHeon 👋
 
-<h>I'm a AI Engineer at UST21 R&D. Please email/tag me if you have any questions.</h>
-
-## I'm interested in ...  
-
-- Computer Vision
-   - Low level vision task  
-   
-- Generative Models
-
-- Efficient Learning
-  - Data efficient learning
-  - Low complexity models
-
-## Work experiences ...
-
-- Remote sensing SST data super resolution
-- Maritime AIS anomaly detection using Convolutional Adversarial Autoencoder
-- Seafog generation prediction 
+<h>I'm a AI Engineer at UST21 R&D. Please email/tag me if you have any questions.</h>  
 
 ## The frameworks I use are ...
 
