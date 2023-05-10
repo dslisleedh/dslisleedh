@@ -1,6 +1,6 @@
 # Hi, I'm DongHeon 👋
 
-<h>I'm a AI Engineer at UST21 R&D. Please email/tag me if you have any questions.</h>  
+<h>Please email/tag me if you have any questions.</h>  
 
 ## The frameworks I use are ...
 
