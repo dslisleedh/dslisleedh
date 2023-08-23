@@ -2,12 +2,6 @@
 
 <h>Please email/tag me if you have any questions.</h>  
 
-## The frameworks I use are ...
-
-- Tensorflow 2.0
-- Flax
-
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dslisleedh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
